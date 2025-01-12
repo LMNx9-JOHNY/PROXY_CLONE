@@ -1,9 +1,7 @@
 # LMNx9 PROXY v3.0
-- Clone Random Active Proxy
-- HTTP/SOCKS4/SOCKS5
-- Proxy Test & IP Info
-- [JOIN TELEGRAM FOR MORE UPDATE](https://t.me/TEAM_LMNx9)
-- Developer - [LMNx9](https://t.me/x_LMNx9)[]()
+
+- Clone Random Active Proxy - HTTP/SOCKS4/SOCKS5 - Proxy Test & IP Info
+- [JOIN TELEGRAM FOR MORE UPDATE](https://t.me/TEAM_LMNx9) - Developer - [LMNx9](https://t.me/x_LMNx9)
 ![]()
 
 
